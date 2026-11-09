@@ -1,0 +1,58 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/3lyey5n0_hiin.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+5:I[30522,["$2"],"default"]
+9:"/_next/static/chunks/07gjui7elx6h6.js"
+a:I[92021,["$2","$9"],"default"]
+b:I[97367,["$2"],"OutletBoundary"]
+c:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[97367,["$2"],"$f"]
+11:"MetadataBoundary"
+12:I[97367,["$2"],"$11"]
+:HL["/_next/static/chunks/2kd-sd_u18tgm.css","style"]
+:HL["/_next/static/chunks/2fyh8r7db-aj0.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap","style"]
+:HL["/assets/motion/motion.css","style"]
+:Hm"/assets/system.js"
+:Hm"/assets/moments/moments.js"
+:Hm"/assets/moments/lib.js"
+:Hm"/assets/moments/letters-assemble/moment.js"
+7:X
+8:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$La",null,{}],[["$","script","script-0",{"src":"/_next/static/chunks/07gjui7elx6h6.js","async":true}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"p":"$@e","v":null,"s":"$7"}}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2kd-sd_u18tgm.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/2fyh8r7db-aj0.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3lyey5n0_hiin.js","async":true}]],["$","html",null,{"lang":"it","data-type":"software","data-radius":"soft","data-buttons":"tonal","data-motion":"","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var r=document.documentElement,l=null;try{var s=localStorage.getItem('nox-lang');if(s==='it'||s==='en')l=s}catch(e){}if(!l){var a=navigator.languages&&navigator.languages.length?navigator.languages:[navigator.language||''];for(var i=0;i<a.length&&!l;i++){var c=String(a[i]).toLowerCase();if(c.indexOf('it')===0)l='it';else if(c.indexOf('en')===0)l='en'}}l=l||'en';r.setAttribute('data-lang',l);r.lang=l;if(l!=='it'){setTimeout(function(){r.setAttribute('data-lang-ready','')},1200)}else{r.setAttribute('data-lang-ready','')}}catch(e){}})()"}}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preconnect","href":"https://cdn.jsdelivr.net","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"stylesheet","href":"/assets/motion/motion.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"document.documentElement.classList.add('m-enter');setTimeout(()=>document.documentElement.classList.add('m-enter-done'),700)"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"document.documentElement.classList.add('mo-js');setTimeout(()=>document.documentElement.classList.add('mo-safe'),2500)"}}],["$","link",null,{"rel":"modulepreload","href":"/assets/system.js"}],["$","link",null,{"rel":"modulepreload","href":"/assets/moments/moments.js"}],["$","link",null,{"rel":"modulepreload","href":"/assets/moments/lib.js"}],["$","link",null,{"rel":"modulepreload","href":"/assets/moments/letters-assemble/moment.js"}]]}],["$","body",null,{"children":[["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","$L5",null,{}]]}]]}]]}],"p":"$@6","v":null,"s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L10",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0e1116"}]]}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"NOX — Trasferimento File end-to-end"}],["$","meta","1",{"name":"description","content":"Progetto sperimentale di tesi: trasferimenti cifrati tra client Windows, con un server self-hostable per Windows e Linux. Download e funzionamento di NOX."}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b"]}]}],null]}],null]}],"p":"$@2c","v":null,"s":"$7"}},"a":"$@2d","u":"$@2e","b":"ynJTAqT6UKT7MH-QCP-Q7"}
+2f:I[27201,["$2"],"IconMark"]
+d:null
+13:["$","meta","2",{"name":"page-type","content":"software"}]
+14:["$","meta","3",{"name":"site-kind","content":"software"}]
+15:["$","link","4",{"rel":"canonical","href":"https://noxft.it"}]
+16:["$","meta","5",{"property":"og:title","content":"NOX — Trasferimento File end-to-end"}]
+17:["$","meta","6",{"property":"og:description","content":"Il progetto, i download e il percorso di un file tra Alice e Bob."}]
+18:["$","meta","7",{"property":"og:url","content":"https://noxft.it"}]
+19:["$","meta","8",{"property":"og:site_name","content":"NOX"}]
+1a:["$","meta","9",{"property":"og:locale","content":"it_IT"}]
+1b:["$","meta","10",{"property":"og:image","content":"https://noxft.it/share.jpg"}]
+1c:["$","meta","11",{"property":"og:image:width","content":"1200"}]
+1d:["$","meta","12",{"property":"og:image:height","content":"630"}]
+1e:["$","meta","13",{"property":"og:image:alt","content":"NOX — Trasferimento File end-to-end"}]
+1f:["$","meta","14",{"property":"og:locale:alternate","content":"en_US"}]
+20:["$","meta","15",{"property":"og:type","content":"website"}]
+21:["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}]
+22:["$","meta","17",{"name":"twitter:title","content":"NOX — Trasferimento File end-to-end"}]
+23:["$","meta","18",{"name":"twitter:description","content":"Il progetto, i download e il percorso di un file tra Alice e Bob."}]
+24:["$","meta","19",{"name":"twitter:image","content":"https://noxft.it/share.jpg"}]
+25:["$","meta","20",{"name":"twitter:image:alt","content":"NOX — Trasferimento File end-to-end"}]
+26:["$","meta","21",{"name":"twitter:image:width","content":"1200"}]
+27:["$","meta","22",{"name":"twitter:image:height","content":"630"}]
+28:["$","link","23",{"rel":"icon","href":"/favicon.ico","sizes":"16x16 32x32 48x48"}]
+29:["$","link","24",{"rel":"icon","href":"/nox-logo.png","type":"image/png","sizes":"256x256"}]
+2a:["$","link","25",{"rel":"apple-touch-icon","href":"/nox-logo.png"}]
+2b:["$","$L2f","26",{}]
+7:300
+2e:true
+7:C
+2d:0
+6:"$undefined"
+2c:"$undefined"
+e:"$undefined"
